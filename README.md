@@ -1,6 +1,7 @@
 # Hello! 👋 I'm Md. Sabit Shahriar Haque.
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sabyte&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=sabyte&color=brightgreen)
+
 
 
 ## About Me
@@ -9,7 +10,7 @@
 - 👯 I’m looking to collaborate on open source projects.
 <!- 🤔 I’m looking for help with machine learning.
 - 💬 Ask me about anything tech-related.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [sabitshahriarh@gmail.com](sabitshahriarh@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play chess!>
 
