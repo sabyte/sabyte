@@ -1,4 +1,5 @@
 # Hello! 👋 I'm Md. Sabit Shahriar Haque.
+Graduate in Mechanical Engineering
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sabyte&color=brightgreen)
 
