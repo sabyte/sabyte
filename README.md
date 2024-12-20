@@ -6,7 +6,6 @@
 
 ## About Me
 - 🔭 I’m currently working IoT based projects.
-<!- 🌱 I’m currently learning React and Node.js. >
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: [sabitshahriarh@gmail.com](sabitshahriarh@gmail.com)
 
